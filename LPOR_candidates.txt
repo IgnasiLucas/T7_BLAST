@@ -1,0 +1,45 @@
+# From Table S1 in: Olga Chernomor, Lena Peters, Judith Schneidewind, Anita Loeschcke,
+# Esther Knieps-Grünhagen, Fabian Schmitz, Eric von Lieres, Roger Jan Kutta, Vera Svensson,
+# Karl-Erich Jaeger, Thomas Drepper, Arndt von Haeseler and Ulrich Krauss, Complex Evolution
+# of Light-Dependent Protochlorophyllide Oxidoreductases in Aerobic Anoxygenic Phototrophs:
+# Origin, Phylogeny, and Function, Molecular Biology and Evolution, Volume 38, Issue 3,
+# March 2021, Pages 819–837, https://doi.org/10.1093/molbev/msaa234
+
+# Putative LPORs in non-oxigenic phototrophic bacteria
+# Species	LPOR AccNUM
+Gemmatimonas phototrophica	AMW05784
+Gemmatimonadetes bacterium	PHX65690
+Acidiphilium angustum	WP_029314395
+Acidiphilium rubrum	SIR58578
+Erythrobacter litoralis a	KEO90002
+Erythrobacter litoralis a	AOL22630
+Erythrobacter sp. HL-111 b	SDS46897
+Erythrobacteraceae bacterium HL-111 b	KPP91129
+Erythrobacter sp. SCN 62-14	ODS93018
+Porphyrobacter dokdonensis DSM 17193 c	WP_068863292
+Porphyrobacter dokdonensis DSW-74 c	OBV11559
+Porphyrobacter tepidarius	WP_086617938
+Alphaproteobacteria bacterium	PZN94637
+Alphaproteobacteria bacterium PA4	OYU15985
+Sphingomonadales bacterium 28-64-96	OYZ16473
+Sphingomonadales bacterium 32-65-25	OYX79084
+Dinoroseobacter shibae	ABV95870
+Loktanella fryxellensis	SEN87055
+Yoonia vestfoldensis	WP_026352701
+Roseisalinus antarcticus	SLN77620
+Sulfitobacter guttiformis	KIN73509
+Sandarakinorhabdus limnophila	WP_022680993
+Sandarakinorhabdus sp. AAP62	WP_020480449
+Sandarakinorhabdus sp. TH057	OYQ31188
+Sphingomonas sp. 12-62-6	OYW22568
+Sphingomonas sp. 28-62-11	OYY63160
+Sphingomonas sp. 28-62-20	OYY75650
+Sphingomonas sp. 32-62-10	OYX39646
+Sphingomonas sp. IBVSS1	OSZ70988
+Polynucleobacter paneuropaeus	AWW49216
+Polynucleobacter campilacus	OWS70994
+Limnohabitans sp. 15K	PIT82811
+Limnohabitans sp. 2KL-51	PUE50165
+Burkholderiales bacterium	PZO15167
+Proteobacteria bacterium ST_bin13	OQW77747
+Proteobacteria bacterium ST_bin14	OQW73116
